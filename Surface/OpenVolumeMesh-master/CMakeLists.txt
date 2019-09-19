@@ -1,0 +1,52 @@
+cmake_minimum_required(VERSION 3.1.0 FATAL_ERROR)
+set(CMAKE_CXX_STANDARD 11)
+
+if("${PROJECT_NAME}" STREQUAL "")
+    message("Setting project name to OpenVolumeMesh")
+    project (OpenVolumeMesh)
+
+    set(CMAKE_MACOSX_RPATH 1)
+
+endif()
+
+# add our macro directory to cmake search path
+set (CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
+set (CMAKE_DEBUG_POSTFIX "d")
+
+
+# Enable bigobj on MSVC Windows debug mode
+if ( MSVC )
+   add_compile_options("$<IF:$<CXX_COMPILER_ID:MSVC>,$<$<CONFIG:DEBUG>:/bigobj>,>")
+endif()
+
+if (WIN32)
+  add_definitions( -D_USE_MATH_DEFINES -DNOMINMAX  )
+endif ()
+
+# include our cmake files
+include (ACGCommon)
+
+acg_get_version ()
+
+include (ACGOutput)
+
+
+# ========================================================================
+# Call the subdirectories with the projects
+# ========================================================================
+
+add_subdirectory (src)
+
+# Only add examples and doc to build target if OpenVolumeMesh
+# is not built as external library only
+if(${PROJECT_NAME} MATCHES "OpenVolumeMesh")
+    add_subdirectory (examples)
+    add_subdirectory (documentation)
+endif()
+
+# ========================================================================
+# Bundle generation (Targets exist, now configure them)
+# ========================================================================
+
+# display results
+acg_print_configure_header (OPENVOLUMEMESH "OpenVolumeMesh")

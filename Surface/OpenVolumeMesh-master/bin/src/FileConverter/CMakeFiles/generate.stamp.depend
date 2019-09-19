@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.15/Modules/AddFileDependencies.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/FindBoost.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.15/Modules/FindPackageMessage.cmake
+F:/Visual Stdio 2017 Projects/Surface/OpenVolumeMesh-master/cmake/ACGCommon.cmake
+F:/Visual Stdio 2017 Projects/Surface/OpenVolumeMesh-master/cmake/ACGCompiler.cmake
+F:/Visual Stdio 2017 Projects/Surface/OpenVolumeMesh-master/src/FileConverter/CMakeLists.txt

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\examples\simple_mesh\simple_mesh.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\examples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A81C74D8-7354-3FC8-9844-E071C24AA5FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

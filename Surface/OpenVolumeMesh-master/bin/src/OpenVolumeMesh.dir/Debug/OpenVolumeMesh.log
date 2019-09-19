@@ -1,0 +1,20 @@
+﻿  Building Custom Rule F:/Visual Stdio 2017 Projects/Surface/OpenVolumeMesh-master/src/CMakeLists.txt
+  OpenVolumeMeshStatus.cc
+  StatusAttrib.cc
+  BaseEntities.cc
+  BaseProperty.cc
+  Iterators.cc
+  OpenVolumeMeshBaseProperty.cc
+  OpenVolumeMeshHandle.cc
+  PropertyDefines.cc
+  ResourceManager.cc
+  Serializers.cc
+  TopologyKernel.cc
+  FileManager.cc
+  Vector.cc
+  HexahedralMeshIterators.cc
+  HexahedralMeshTopologyKernel.cc
+  TetrahedralMeshIterators.cc
+  TetrahedralMeshTopologyKernel.cc
+  正在生成代码...
+  OpenVolumeMesh.vcxproj -> F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\bin\src\Debug\OpenVolumeMeshd.lib

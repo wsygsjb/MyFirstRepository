@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\OpenVolumeMeshStatus.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\StatusAttrib.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\BaseEntities.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\BaseProperty.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\Iterators.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\OpenVolumeMeshBaseProperty.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\OpenVolumeMeshHandle.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\PropertyDefines.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\ResourceManager.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\Serializers.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\TopologyKernel.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\FileManager\FileManager.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Geometry\Vector.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\HexahedralMeshIterators.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\HexahedralMeshTopologyKernel.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\TetrahedralMeshIterators.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\TetrahedralMeshTopologyKernel.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\ColorAttrib.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\ColorAttribT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\NormalAttrib.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\NormalAttribT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\OpenVolumeMeshStatus.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\StatusAttrib.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\StatusAttribT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\TexCoordAttrib.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Attribs\TexCoordAttribT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\BaseEntities.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\BaseProperty.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\Entities.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\ForwardDeclarations.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\GeometryKernel.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\Iterators.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\OpenVolumeMeshBaseProperty.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\OpenVolumeMeshHandle.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\OpenVolumeMeshProperty.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\PropertyDefines.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\PropertyDefinesT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\PropertyHandles.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\PropertyPtr.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\PropertyPtrT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\ResourceManager.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\ResourceManagerT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\Serializers.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\SerializersT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\TopologyKernel.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Core\TypeName.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\FileManager\FileManager.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\FileManager\FileManagerT_impl.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Geometry\Vector11T.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Geometry\VectorT.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Geometry\VectorT_inc.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\HexahedralMesh.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\HexahedralMeshIterators.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\HexahedralMeshTopologyKernel.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\PolyhedralMesh.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\TetrahedralGeometryKernel.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\TetrahedralMesh.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\TetrahedralMeshIterators.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\OpenVolumeMesh\Mesh\TetrahedralMeshTopologyKernel.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Visual Stdio 2017 Projects\Surface\OpenVolumeMesh-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D985E923-AF7A-3A08-8349-B7E18DDB3B77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A81C74D8-7354-3FC8-9844-E071C24AA5FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
